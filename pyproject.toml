@@ -1,6 +1,6 @@
 [project]
 name = "currency"
-version = "0.1.0"
+version = "0.1.1"
 description = "Currency faucets for BallsDex: catch bounties, daily streak rewards and selling collectibles"
 license = "MIT"
 authors = [
