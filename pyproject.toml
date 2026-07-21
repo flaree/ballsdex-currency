@@ -1,0 +1,9 @@
+[project]
+name = "currency"
+version = "0.1.0"
+description = "Currency faucets for BallsDex: catch bounties, daily streak rewards and selling collectibles"
+license = "MIT"
+authors = [
+    { name = "flare", email = "flare@ballsdex.com" },
+]
+dependencies = []
